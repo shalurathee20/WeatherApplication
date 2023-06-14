@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="search_label">Enter US city only.</string>
+    <string name="city_name">Pune</string>
+    <string name="time">Time</string>
+    <string name="min_temp">Min Temp</string>
+    <string name="max_temp">Max Temp</string>
+    <string name="value">value</string>
+    <string name="temp">30</string>
+    <string name="feel_like">Feels Like</string>
+    <string name="pressure">Pressure</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="humidity">Humidity</string>
+    <string name="temp_label">Temp</string>
+    <string name="ground">Ground</string>
+    <string name="sea">Sea</string>
+    <string name="wind">Wind Speed</string>
+    <string name="country">Country</string>
+    <string name="common_ok">Ok</string>
+    <string name="network">Network</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="api">Api response Issue</string>
+    <string name="permission">Please enable the location from settings.</string>
+    <string name="msg_internet_unavailable">Internet appears to be offline. Please check your network connection.</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="valid_city_name">Please enter city of US country only.</string>
+    <string name="wrong_city_name">Wrong City Name</string>
+</resources>
